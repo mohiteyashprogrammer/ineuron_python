@@ -1,0 +1,104 @@
+2022-12-20 13:44:38,081 - DEBUG - 57
+2022-12-20 13:44:38,082 - INFO - -33
+2022-12-20 13:44:38,082 - WARNING - 540
+2022-12-20 13:44:38,083 - CRITICAL - 0.26666666666666666
+2022-12-20 13:45:12,815 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2022-12-20 13:45:12,840 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-12-20 13:45:16,845 - DEBUG - check the name alphabets
+2022-12-20 13:45:20,756 - DEBUG - diff parser start
+2022-12-20 13:45:20,756 - DEBUG - line_lengths old: 1; new: 1
+2022-12-20 13:45:20,756 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2022-12-20 13:45:20,757 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2022-12-20 13:45:20,757 - DEBUG - diff parser end
+2022-12-20 13:45:26,111 - DEBUG - check the name alphabets
+2022-12-20 13:45:41,460 - DEBUG - failde all check
+2022-12-20 13:46:09,890 - DEBUG - check the name 
+2022-12-20 13:57:05,938 - DEBUG - diff parser start
+2022-12-20 13:57:05,938 - DEBUG - line_lengths old: 1; new: 1
+2022-12-20 13:57:05,938 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2022-12-20 13:57:05,939 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2022-12-20 13:57:05,939 - DEBUG - diff parser end
+2022-12-20 13:57:20,358 - DEBUG - diff parser start
+2022-12-20 13:57:20,358 - DEBUG - line_lengths old: 1; new: 2
+2022-12-20 13:57:20,358 - DEBUG - -> code[replace] old[1:1] new[1:2]
+2022-12-20 13:57:20,359 - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+2022-12-20 13:57:20,359 - DEBUG - diff parser end
+2022-12-20 13:57:24,849 - DEBUG - diff parser start
+2022-12-20 13:57:24,849 - DEBUG - line_lengths old: 2; new: 2
+2022-12-20 13:57:24,849 - DEBUG - -> code[equal] old[1:1] new[1:1]
+2022-12-20 13:57:24,849 - DEBUG - copy old[1:1] new[1:1]
+2022-12-20 13:57:24,849 - DEBUG - -> code[replace] old[2:2] new[2:2]
+2022-12-20 13:57:24,849 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+2022-12-20 13:57:24,849 - DEBUG - diff parser end
+2022-12-20 13:57:24,863 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py
+2022-12-20 13:57:24,870 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2022-12-20 13:57:39,597 - DEBUG - diff parser start
+2022-12-20 13:57:39,597 - DEBUG - line_lengths old: 2; new: 2
+2022-12-20 13:57:39,597 - DEBUG - -> code[equal] old[1:1] new[1:1]
+2022-12-20 13:57:39,597 - DEBUG - copy old[1:1] new[1:1]
+2022-12-20 13:57:39,597 - DEBUG - -> code[replace] old[2:2] new[2:2]
+2022-12-20 13:57:39,598 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+2022-12-20 13:57:39,598 - DEBUG - diff parser end
+2022-12-20 13:58:07,718 - DEBUG - diff parser start
+2022-12-20 13:58:07,718 - DEBUG - line_lengths old: 2; new: 2
+2022-12-20 13:58:07,718 - DEBUG - -> code[equal] old[1:1] new[1:1]
+2022-12-20 13:58:07,719 - DEBUG - copy old[1:1] new[1:1]
+2022-12-20 13:58:07,719 - DEBUG - -> code[replace] old[2:2] new[2:2]
+2022-12-20 13:58:07,719 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+2022-12-20 13:58:07,719 - DEBUG - diff parser end
+2022-12-20 13:58:11,212 - DEBUG - diff parser start
+2022-12-20 13:58:11,212 - DEBUG - line_lengths old: 2; new: 2
+2022-12-20 13:58:11,212 - DEBUG - -> code[equal] old[1:1] new[1:1]
+2022-12-20 13:58:11,212 - DEBUG - copy old[1:1] new[1:1]
+2022-12-20 13:58:11,212 - DEBUG - -> code[replace] old[2:2] new[2:2]
+2022-12-20 13:58:11,212 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+2022-12-20 13:58:11,213 - DEBUG - diff parser end
+2022-12-20 13:58:58,437 - DEBUG - diff parser start
+2022-12-20 13:58:58,438 - DEBUG - line_lengths old: 2; new: 3
+2022-12-20 13:58:58,438 - DEBUG - -> code[equal] old[1:1] new[1:1]
+2022-12-20 13:58:58,438 - DEBUG - copy old[1:1] new[1:1]
+2022-12-20 13:58:58,438 - DEBUG - -> code[replace] old[2:2] new[2:3]
+2022-12-20 13:58:58,439 - DEBUG - parse_part from 2 to 3 (to 2 in part parser)
+2022-12-20 13:58:58,439 - DEBUG - diff parser end
+2022-12-20 13:59:41,285 - DEBUG - diff parser start
+2022-12-20 13:59:41,285 - DEBUG - line_lengths old: 3; new: 4
+2022-12-20 13:59:41,285 - DEBUG - -> code[equal] old[1:2] new[1:2]
+2022-12-20 13:59:41,286 - DEBUG - copy old[1:2] new[1:2]
+2022-12-20 13:59:41,286 - DEBUG - -> code[replace] old[3:3] new[3:4]
+2022-12-20 13:59:41,286 - DEBUG - parse_part from 3 to 4 (to 3 in part parser)
+2022-12-20 13:59:41,286 - DEBUG - diff parser end
+2022-12-20 13:59:49,487 - DEBUG - diff parser start
+2022-12-20 13:59:49,487 - DEBUG - line_lengths old: 4; new: 4
+2022-12-20 13:59:49,487 - DEBUG - -> code[equal] old[1:3] new[1:3]
+2022-12-20 13:59:49,488 - DEBUG - copy old[1:2] new[1:2]
+2022-12-20 13:59:49,488 - DEBUG - parse_part from 3 to 2 (to 2 in part parser)
+2022-12-20 13:59:49,489 - DEBUG - parse_part from 3 to 4 (to 3 in part parser)
+2022-12-20 13:59:49,489 - DEBUG - -> code[replace] old[4:4] new[4:4]
+2022-12-20 13:59:49,489 - DEBUG - diff parser end
+2022-12-20 14:00:35,676 - DEBUG - diff parser start
+2022-12-20 14:00:35,677 - DEBUG - line_lengths old: 4; new: 5
+2022-12-20 14:00:35,677 - DEBUG - -> code[equal] old[1:3] new[1:3]
+2022-12-20 14:00:35,677 - DEBUG - copy old[1:2] new[1:2]
+2022-12-20 14:00:35,677 - DEBUG - parse_part from 3 to 2 (to 2 in part parser)
+2022-12-20 14:00:35,678 - DEBUG - parse_part from 3 to 5 (to 4 in part parser)
+2022-12-20 14:00:35,678 - DEBUG - -> code[replace] old[4:4] new[4:5]
+2022-12-20 14:00:35,678 - DEBUG - diff parser end
+2022-12-20 14:00:35,704 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\typing.py
+2022-12-20 14:00:35,717 - DEBUG - pickle loaded: C:\Users\yash mohite\AppData\Local\Programs\Python\Python310\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-12-20 14:00:44,513 - DEBUG - diff parser start
+2022-12-20 14:00:44,513 - DEBUG - line_lengths old: 5; new: 1
+2022-12-20 14:00:44,513 - DEBUG - -> code[replace] old[1:5] new[1:1]
+2022-12-20 14:00:44,513 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2022-12-20 14:00:44,514 - DEBUG - diff parser end
+2022-12-20 14:01:28,867 - DEBUG - check the number 
+2022-12-20 14:01:50,277 - DEBUG - check the number 
+2022-12-20 14:02:59,324 - DEBUG - check the number 
+2022-12-20 14:07:58,270 - DEBUG - 57
+2022-12-20 14:07:58,271 - INFO - -33
+2022-12-20 14:07:58,271 - WARNING - 540
+2022-12-20 14:07:58,271 - CRITICAL - 0.26666666666666666
+2022-12-20 14:07:58,375 - DEBUG - check the name alphabets
+2022-12-20 14:07:58,391 - DEBUG - check the name 
+2022-12-20 14:07:58,405 - DEBUG - failde all check
+2022-12-20 14:07:58,437 - DEBUG - check the number 
+2022-12-20 14:09:32,850 - DEBUG - check the number 
